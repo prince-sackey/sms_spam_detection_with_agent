@@ -34,8 +34,10 @@ Linear SVM was selected over CNN despite CNN's slightly higher raw F1 because SV
 # Install dependencies
 pip install -r requirements.txt
 
-# Run the app
-streamlit run agent_app.py
+## Live Demo
+
+- [SMS Spam Detection Agent](https://prince-sackey-sms-spam-detection-with-agent.streamlit.app/) — agent version (this repo)
+
 ```
 
 ## Related Project
