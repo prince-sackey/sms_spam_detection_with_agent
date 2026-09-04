@@ -4,3 +4,4 @@ joblib
 gradio
 spaces
 groq
+python-dotenv
